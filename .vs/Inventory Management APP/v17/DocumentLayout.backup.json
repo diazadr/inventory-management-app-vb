@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Inventory Management APP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|c:\\users\\lenovo\\documents\\visual studio 2022\\inventory-management-app-vb-main\\inventory management app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\dbconnetion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\dbconnetion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\formregisteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\formregisteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\formregisteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\formregisteradmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\formnotifikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\formnotifikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\formnotifikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\formnotifikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\forminventaris.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\forminventaris.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\inventory management app\\forms\\forminventaris.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|solutionrelative:inventory management app\\forms\\forminventaris.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEFACE-6FE7-4542-BFAE-55F7230BA777}|Inventory Management APP\\Inventory Management APP.vbproj|c:\\users\\lenovo\\documents\\visual studio 2022\\inventory-management-app-vb-main\\inventory management app\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory Management APP",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Inventory Management APP.vbproj",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Inventory Management APP.vbproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Inventory Management APP.vbproj",
+              "RelativeToolTip": "Inventory Management APP\\Inventory Management APP.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T14:13:39.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbconnetion.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\dbconnetion.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\dbconnetion.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\dbconnetion.vb",
+              "RelativeToolTip": "Inventory Management APP\\dbconnetion.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-12-07T15:59:15.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Form1.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Form1.vb [Design]",
+              "RelativeToolTip": "Inventory Management APP\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-12-07T15:52:24.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLaporan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormLaporan.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormLaporan.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormLaporan.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormLaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:47:26.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegisterAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormRegisterAdmin.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormRegisterAdmin.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormRegisterAdmin.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormRegisterAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:42:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegisterAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormRegisterAdmin.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormRegisterAdmin.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormRegisterAdmin.vb",
+              "RelativeToolTip": "Inventory Management APP\\Forms\\FormRegisterAdmin.vb",
+              "ViewState": "AQIAAKEAAAAAAAAAAAA+wMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:47:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormNotifikasi.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormNotifikasi.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormNotifikasi.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormNotifikasi.vb",
+              "RelativeToolTip": "Inventory Management APP\\Forms\\FormNotifikasi.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:49:29.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormNotifikasi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormNotifikasi.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormNotifikasi.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormNotifikasi.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormNotifikasi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:49:28.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLaporan.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormLaporan.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormLaporan.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormLaporan.vb",
+              "RelativeToolTip": "Inventory Management APP\\Forms\\FormLaporan.vb",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:47:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormInventaris.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormInventaris.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormInventaris.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormInventaris.vb",
+              "RelativeToolTip": "Inventory Management APP\\Forms\\FormInventaris.vb",
+              "ViewState": "AQIAALwAAAAAAAAAAAAuwMUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:47:35.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormInventaris.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\inventory-management-app-vb-main\\Inventory Management APP\\Forms\\FormInventaris.vb",
+              "RelativeDocumentMoniker": "Inventory Management APP\\Forms\\FormInventaris.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormInventaris.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Inventory Management APP\\Inventory Management APP\\Forms\\FormInventaris.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-07T15:37:31.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
