@@ -83,7 +83,7 @@ This project is an inventory management application, developed as part of the **
 This project is **completed** and will not be further developed.
 
 ## Contributions
-We welcome contributions! Please refer to our **Contributing Guidelines** for more details.
+Feel free to submit issues or contribute by creating pull requests.
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
